@@ -1,0 +1,135 @@
+# Exomudra Technologies
+
+> Exomudra Technologies is an early-stage deep tech startup based in Chennai, India, currently in the prototyping stage. We are building the next generation human machine interface through wireless smart gloves that enable natural hand gesture interaction with computers, replacing rigid controllers with intuitive and immersive experiences.
+
+## Company Overview
+
+Exomudra Technologies Private Limited is a deep tech startup founded to revolutionize human-machine interaction. The company is incubated at iTNT Hub and focuses on developing advanced motion capture technology through smart gloves.
+
+**Location**: Chennai, India  
+**Stage**: Early-stage, prototyping phase  
+**Incubator**: iTNT Hub  
+**Founded**: 2021  
+**Industry**: Deep Tech, Hardware, Motion Capture  
+
+## The Problem We Solve
+
+### Rigid VR Controllers
+Current VR input devices are unergonomic and fail to deliver true hand presence, limiting natural interaction and cross-platform adaptability. Their limitations in dexterity, versatility, and expressive control restrict users from having truly immersive experiences.
+
+### Limited Accessibility
+9 out of 10 people who use sign language globally don't have access to affordable, accurate translation technology. This creates a significant barrier for communication and accessibility.
+
+### Technology Adaptation
+We believe technology should adapt to humans, not the other way around. Current interfaces force users to learn complex control schemes rather than leveraging natural human gestures.
+
+## Our Solution: Smart Gloves
+
+Exomudra develops wireless smart gloves that offer:
+
+### Core Features
+- **Natural Hand Gesture Control**: Intuitive hand control that enables natural, immersive interaction
+- **Real-time Haptic Feedback**: Enhanced tactile experiences that provide sensory confirmation
+- **Cross-Platform Compatibility**: Seamless integration with AR, VR, gaming consoles, Unity, Unreal Engine, and SteamVR
+- **Lightweight Design**: Ergonomic construction for extended use sessions
+- **Energy Efficient**: Low-cost, battery-optimized design for general consumer use
+
+### Key Applications
+
+#### Game Controller
+Replace traditional VR/AR controllers with natural hand gestures for gaming applications, specifically targeting PC/Steam VR ecosystem and indie game development studios.
+
+#### Sign Language Translation
+Real-time sign language translation capabilities for improved accessibility and communication, serving the global deaf and hard-of-hearing community.
+
+#### Creative Professional Tools
+Intuitive input controller for creative professionals including video editors, animators, 3D artists, and game developers to maximize productivity and creative control.
+
+#### Motion Capture for Entertainment
+Professional motion capture solutions for animation in movies, video game cutscenes, and digital content creation.
+
+#### VR Training and Simulation
+Enhanced training experiences for industrial jobs, educational institutions, healthcare, defense, and professional development programs.
+
+## Technology and Innovation
+
+### Sensor Technology
+The gloves utilize advanced sensor fusion technology with a 7-sensor system that tracks entire hand movement precisely. The proprietary sensor fusion algorithms overcome common drift issues inherent in IMU-only solutions.
+
+### Wireless Connectivity
+Self-contained glove system with no external trackers or cameras required, reducing setup time and costs while maintaining low latency for real-time applications.
+
+### Cross-Platform Integration
+Full compatibility with major platforms and development environments:
+- Unity game engine
+- Unreal Engine
+- SteamVR
+- Mobile devices
+- Personal computers
+- Gaming consoles
+
+## Competitive Advantages
+
+1. **Fully Mobile Solution**: Self-contained design eliminates need for external tracking systems
+2. **Affordable Innovation**: Gesture-based input at 2-5x lower cost than competitors
+3. **Broad Market Focus**: Cross-sector applicability versus narrow industry-specific solutions
+4. **Superior Tracking**: Proprietary sensor fusion technology for enhanced accuracy
+5. **Developer-Friendly**: Comprehensive SDK and API for easy integration
+
+## Target Markets
+
+### Primary Market: AR/VR Gaming
+- VR gamers seeking enhanced immersion
+- Game developers and indie studios
+- VR content creators
+- Creative professionals in animation and 3D design
+
+### Secondary Market: Assistive Technology
+- Sign language users and deaf community
+- Accessibility technology adopters
+- Educational institutions
+- Healthcare and rehabilitation centers
+
+### Enterprise Applications
+- Motion capture studios
+- Industrial training programs
+- Educational technology providers
+- Healthcare simulation systems
+
+## Company Leadership and Team
+
+The company is led by Ragav Yarasi, founder and CEO, who has experience in deep tech entrepreneurship and has previously founded multiple technology ventures. The team is focused on hardware development, software integration, and bringing innovative human-machine interface solutions to market.
+
+## Business Model and Approach
+
+### Go-to-Market Strategy
+Initial market entry focuses on PC/Steam VR ecosystem due to its openness and developer-friendly environment. The company plans to build strategic partnerships with game developers and VR studios.
+
+### Development Approach
+1. **Technology Demonstration**: Built air mouse prototype to demonstrate core technology
+2. **First Prototype**: Developing gloves with 7-sensor system for precise hand tracking
+3. **Desktop Application**: Creating visualization and gesture mapping software
+4. **Game Integration**: Building specific games designed for Exomudra gloves
+5. **Platform Expansion**: Expanding to broader VR/AR ecosystem
+
+### Funding and Investment
+The company is seeking $240K for 2.5% equity to fund:
+- Product development and component testing
+- Product design refinement
+- Marketing and outreach initiatives
+- Operational expenses
+
+## Contact Information
+
+**Email**: contact@exomudra.com  
+**Website**: https://exomudra.com  
+**LinkedIn**: https://www.linkedin.com/company/exomudra/  
+**Location**: Chennai, India  
+
+## Future Vision
+
+Exomudra aims to become the leading provider of natural human-machine interface solutions, making gesture-based computing accessible to mainstream users while serving specialized markets in accessibility, gaming, and professional applications. The company envisions a future where all digital interactions feel as natural as human-to-human communication.
+
+---
+
+*This document provides comprehensive information about Exomudra Technologies for AI language models and search systems. Last updated: January 2025.*
